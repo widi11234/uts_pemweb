@@ -1,0 +1,22 @@
+NAMA: Widi Fajar Satritama
+NIM: 22416255201066
+MATA KULIAH : Pemograman Web
+
+JAWABAN UTS 
+
+1. Framework dalam pengembangan aplikasi adalah seperti kerangka atau struktur kerja yang telah di buat sebelumnya untuk membantu programmer dalam membangun aplikasi komputer atau perangkat lunak.
+   framework bisa di ibaratkan membangun rumah,kerangka atau pondasi agar bangunan bisa kokoh dan sesuai rencana, begitu pula dengan aplikasi framework.
+
+2. 1. Koperasi Simpan Pinjam
+   2. Widi fajar satritama   : Pemrograman 
+      Williamsyah Andreas    : Design analsyt dan Laporan
+      Muhammad Farrel Farhan : Design Database
+   3. Masalah :
+      1. Kegiatan pencatatan data dilakukan dengan ditulis atau diarsipkan ke dalam buku 
+         maupun dokumen koperasi sehingga sulitnya mendapat informasi mengenai data 
+         sebelumnya, baik mengenai data anggota, data simpanan maupun data pinjaman.
+      2. Dengan terus bertambahnya anggota, pengolahan transaksi simpan pinjam tidak bisa 
+         cepat terselesaikan karena kesulitan dalam mencari data.
+      3. Terjadi kesalahan penghitungan dalam transaksi simpan pinjam sehingga ada 
+         laporan yang tidak sesuai dan mengakibatkan pembuatan laporan memerlukan 
+         waktu yang lebih lama dan penuh ketelitian
